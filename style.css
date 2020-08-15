@@ -1,0 +1,33 @@
+body,
+html{
+      margin: 0;
+      padding: 0;
+      height: 100%;
+}
+
+.svg {
+      display: block;
+      position: fixed;
+      /* top: 0; */
+      left: 0;
+}
+
+#plains{
+    width: 100%;
+    bottom: 0;
+}
+
+#balloon{
+    width: 30vw;
+    height: 40vh;
+    top: 30%;
+    left: 15%;
+}
+
+ .scrollScreen {
+    position: relative;
+    height: 6000px;
+    width: 100px;
+    top: 0;
+    z-index: 0;
+} 

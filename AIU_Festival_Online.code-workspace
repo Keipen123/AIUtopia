@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "AIU_Fes_Online",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB-DEMO"
+	}
+}
